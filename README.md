@@ -1,0 +1,2 @@
+# Python_Programming_from_Beginners_to_Practice
+Python经典入门教程，pdf文档请关注我的公众号：你我的灿烂人生。回复数模必胜即可获得文档和数学建模大赛资料。
