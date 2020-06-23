@@ -16,9 +16,8 @@
 The_guest = ['Mao YuWei','Gongzhe','Guo Chongye','Lin jincan']
 for index in The_guest:
     print(index + ", Would you like to have dinner with me ?")  #index即代表列表元素
-    print(The_guest[3] + " can't go to my dinner.")
 
-The_guest[3] = 'Xiao bei'
-
+print(The_guest[3] + " can't go to the dinner.")
+The_guest[3] = "Xiao Bei"
 for index in The_guest:
     print(index + ", Would you like to have dinner with me ?")
